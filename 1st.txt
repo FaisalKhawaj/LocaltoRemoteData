@@ -1,3 +1,7 @@
 Added 1st.txt
 Updated locally
 Updating on newbranch
+
+
+
+updating 1st for git reset
